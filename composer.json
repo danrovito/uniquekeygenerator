@@ -1,5 +1,5 @@
 {
-    "name": "unique-key-generator",
+    "name": "danrovito/uniquekeygenerator",
     "description": "Generates a unique key based on IP or numeric string",
     "keywords": [
         "key",
