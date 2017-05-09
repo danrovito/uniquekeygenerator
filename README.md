@@ -1,5 +1,7 @@
 # Unique Key Generator
 
+[![Latest Stable Version](https://poser.pugx.org/danrovito/uniquekeygenerator/v/stable)](https://packagist.org/packages/danrovito/uniquekeygenerator) [![Total Downloads](https://poser.pugx.org/danrovito/uniquekeygenerator/downloads)](https://packagist.org/packages/danrovito/uniquekeygenerator) [![License](https://poser.pugx.org/danrovito/uniquekeygenerator/license)](https://packagist.org/packages/danrovito/uniquekeygenerator) [![StyleCI](https://styleci.io/repos/90751899/shield?branch=master)](https://styleci.io/repos/90751899)
+
 This package is designed to create a unique key (WGDL2U-HF3DH7-FYP5DT-RVT5T6-P5FFXX) to use as a possible identity or token.
 
 ## Installation
