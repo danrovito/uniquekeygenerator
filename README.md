@@ -46,7 +46,7 @@ or you can send a numeric string
 $key->makeKey('12345678');
 ```
 
-If you send an IP or string, the last section of your key will be the same each time.
+If you send an IP or string, the last section of your key will be the same each time if the value you input is the same.
 
 The generated key will look like this
 
