@@ -1,6 +1,6 @@
 <?php
 
-namespace GenerateKey
+namespace GenerateKey;
 
 class CreateKey
 {
@@ -34,7 +34,6 @@ class CreateKey
                 $key .= '-'.strtoupper(base_convert($value,10,36));
             }else{
                 $long = sprintf("%u\n", ip2long($value),true);
-                dd($long);
                 $key .= '-'.strtoupper(base_convert($long,10,36));
             }
         }
