@@ -2,7 +2,7 @@
 
 namespace GenerateKey;
 
-class CreateKey
+class GenerateKey
 {
     public function makeKey($value = null)
     {
